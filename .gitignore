@@ -1,0 +1,7 @@
+__pycache__/
+
+## configuration files
+*.ini
+
+## output files
+*.txt
